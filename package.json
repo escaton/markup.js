@@ -1,0 +1,28 @@
+{
+  "name": "markup.js",
+  "version": "0.0.1",
+  "description": "Custom markup engine for web generator on node.js",
+  "main": "index.js",
+  "dependencies": {
+      "mocha": "^2.0.0",
+      "moment": "^2.11.0"
+  },
+  "devDependencies": {
+      "mocha": "^2.0.0",
+      "moment": "^2.11.0" 
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emdc/markup.js.git"
+  },
+  "keywords": ["markup", "generator"],
+  "author": "emdc @ Pikhno Eduard",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/emdc/markup.js/issues"
+  },
+  "homepage": "https://github.com/emdc/markup.js#readme"
+}
