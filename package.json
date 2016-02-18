@@ -8,10 +8,12 @@
   },
   "devDependencies": {
     "assert": "^1.3.0",
+    "istanbul": "^0.4.2",
     "mocha": "^2.0.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test",
+    "cover": "istanbul cover _mocha"
   },
   "repository": {
     "type": "git",
